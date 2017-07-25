@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" ?>
-<Project Title="[SimMap]">
-	<Page Title="首页">
-		<Page Title="输入起点"/>
-		<Page Title="输入终点"/>
-	</Page>
-	<Page Title="map"/>
-</Project>
